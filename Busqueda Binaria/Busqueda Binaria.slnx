@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Busqueda Binaria/Busqueda Binaria.csproj">
+    <BuildType Project="Release" />
+  </Project>
+</Solution>

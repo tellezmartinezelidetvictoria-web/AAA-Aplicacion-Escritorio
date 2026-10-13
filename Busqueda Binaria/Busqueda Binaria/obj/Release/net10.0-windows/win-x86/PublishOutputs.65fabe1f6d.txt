@@ -1,0 +1,2 @@
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Release\net10.0-windows\publish\win-x86\Busqueda Binaria.pdb
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Release\net10.0-windows\publish\win-x86\Busqueda Binaria.exe

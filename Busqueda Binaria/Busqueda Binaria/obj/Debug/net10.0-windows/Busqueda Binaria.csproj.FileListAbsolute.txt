@@ -1,0 +1,17 @@
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\Busqueda Binaria.csproj.GenerateResource.cache
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\Busqueda Binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\Busqueda Binaria.AssemblyInfoInputs.cache
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\Busqueda Binaria.AssemblyInfo.cs
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\Busqueda Binaria.csproj.CoreCompileInputs.cache
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\net10.0-windows\Busqueda Binaria.exe
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\net10.0-windows\Busqueda Binaria.deps.json
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\net10.0-windows\Busqueda Binaria.runtimeconfig.json
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\net10.0-windows\Busqueda Binaria.dll
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\net10.0-windows\Busqueda Binaria.pdb
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\Busqueda_Binaria.Form1.resources
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\Busqueda Binaria.dll
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\refint\Busqueda Binaria.dll
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\Busqueda Binaria.pdb
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\Busqueda Binaria.genruntimeconfig.cache
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\ref\Busqueda Binaria.dll
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\net10.0-windows\Busqueda.87245F94.Up2Date

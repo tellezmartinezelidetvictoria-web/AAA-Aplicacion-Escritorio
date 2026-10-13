@@ -1,0 +1,5 @@
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Release\net10.0-windows\publish\Busqueda Binaria.exe
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Release\net10.0-windows\publish\Busqueda Binaria.dll
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Release\net10.0-windows\publish\Busqueda Binaria.deps.json
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Release\net10.0-windows\publish\Busqueda Binaria.runtimeconfig.json
+C:\Users\jose2\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Release\net10.0-windows\publish\Busqueda Binaria.pdb
